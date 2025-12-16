@@ -1,4 +1,4 @@
-# RA-TI-CRAFT
+# RA-TI CRAFT
 CRAFT 변형 문서 요소 분할 프로그램
 
 # 연구용 사용 안내 (Research Use Only)
